@@ -1,0 +1,41 @@
+Difference Between Compiler and Interpreter
+
+Compiler
+
+  Create the program.
+Compile will parse or analyses all of the language statements for its correctness. If incorrect, throws an error
+If no error, the compiler will convert source code to machine code.
+It links different code files into a runnable program(know as exe)
+Run the Program
+
+interpreter
+
+Create the Program
+No linking of files or machine code generation
+Source statements executed line by line DURING Execution
+ 
+Compiler
+
+The program code is already translated into machine code. Thus, it code execution time is less
+
+interpreter
+
+Interpreters are easier to use, especially for beginners.
+
+
+Compiler
+
+You can't change the program without going back to the source code.
+
+interpreter
+
+Interpreted programs can run on computers that have the corresponding interpreter.
+
+Compiler
+The compiler shows the complete errors and warning messages at program compilation time. So it is not possible to run the program without fixing program errors. Doing debugging of the program is comparatively complex while working with a compiler.
+
+interpreter
+
+An interpreter reads the program line-by-line; it shows the error if present at that specific line. You must have to correct the error first to interpret the next line of the program. Debugging is comparatively easy while working with an Interpreter.
+
+
